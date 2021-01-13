@@ -1,4 +1,4 @@
 ---
-layout:post
-title: Raspberry PI Fardener
+layout: post
+title: Raspberry PI Gardener
 ---
